@@ -1,0 +1,1 @@
+const textA='test texgt a'
